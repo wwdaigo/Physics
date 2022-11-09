@@ -1,0 +1,1 @@
+data class Elements (val rigidBodies: ArrayList<RigidBody> = arrayListOf())
